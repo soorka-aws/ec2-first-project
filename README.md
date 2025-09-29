@@ -15,14 +15,11 @@ Documentation of creating and running an EC2 server on AWS with practical screen
 ## لقطات الشاشة
 
 ### ✅ 1) السيرفر شغال وفيه الـ Public IP
-![EC2 Running](screenshots/my ec2 server)
-
+![EC2 Running](screenshots/my-ec2-instance.png)
 ### ✅ 2) نوع الإنستانس المستخدم (اختياري)
-![Instance Type](screenshots/my instance type)
-
+![Instance Type](screenshots/my-ec2-type.png)
 ### ✅ 3) فتح الموقع من المتصفح
-![Website View](screenshots/my-ec2-website)
-
-## ملاحظات
+![Website View](screenshots/my-ec2-website.png)
+ملاحظات
 - إذا لم يفتح الموقع، غالبًا المنفذ 80 غير مفعَّل في Security Group.
 - مهم حذف أو إيقاف الموارد بعد الانتهاء لتجنب أي تكلفة على الحساب.
