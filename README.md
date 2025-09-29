@@ -23,3 +23,12 @@ Documentation of creating and running an EC2 server on AWS with practical screen
 ملاحظات
 - إذا لم يفتح الموقع، غالبًا المنفذ 80 غير مفعَّل في Security Group.
 - مهم حذف أو إيقاف الموارد بعد الانتهاء لتجنب أي تكلفة على الحساب.
+---
+
+### 🛡️ Security Group Configuration
+
+#### أثناء إنشاء الـEC2
+![Security Group During Creation](screenshots/security-group-during-creation.png)
+
+#### بعد تشغيل الـEC2
+![Security Group After Running](screenshots/security-group-after-running.png)
