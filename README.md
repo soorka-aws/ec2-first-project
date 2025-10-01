@@ -32,3 +32,16 @@ Documentation of creating and running an EC2 server on AWS with practical screen
 
 #### بعد تشغيل الـEC2
 ![Security Group After Running](screenshots/security-group-after-running.png)
+## 🟠 S3 Static Website Hosting
+
+### 1. إنشاء البكت
+![S3 Bucket Creation](screenshots/my-s3-bucket.png)
+
+### 2. إعدادات Public Access
+![S3 Public Access Settings](screenshots/s3-public-access.png)
+
+### 3. تفعيل Static Website Hosting
+![S3 Static Website Configuration](screenshots/s3-static-hosting.png)
+
+### 4. صفحة الموقع بعد التشغيل
+![S3 Website Live](screenshots/s3-website-live.png)
